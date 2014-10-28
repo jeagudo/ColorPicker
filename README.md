@@ -1,16 +1,16 @@
 ColorPicker
 ===========
 
-A Low-Cost Real Color Picker Based on Arduino
+<b>A Low-Cost Real Color Picker Based on Arduino</b>
 
-####################################################################################################
-Real Color picker v 1.0
-Authors: J. Enrique Agudo, Pedro J. Pardo, Héctor Sánchez, Ángel Luis Pérez y Maria Isabel Suero
-Contact: jeagudo@unex.es, pjpardo@unex.es
-Date: March 8,2014
-Version: 1.0
-University of Extremadura
-####################################################################################################
+--------------------------------------------------------------------------------------------------<br>
+Real Color picker v 1.0<br>
+Authors: J. Enrique Agudo, Pedro J. Pardo, Héctor Sánchez, Ángel Luis Pérez y Maria Isabel Suero<br>
+Contact: jeagudo@unex.es, pjpardo@unex.es<br>
+Date: March 8,2014<br>
+Version: 1.0<br>
+University of Extremadura<br>
+--------------------------------------------------------------------------------------------------<br>
 
 -- Getting started --
 
